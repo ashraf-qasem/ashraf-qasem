@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 
 <br/><br/><br/>
 
-### Languages and Tools:
+# Languages and Tools:
 
+## Back-End technologies:
 [<img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][website]
 [<img align="left" alt="ASP.NET Core" width="60px" src="https://avatars.githubusercontent.com/u/6476660?s=200&v=4" />][website]
 [<img align="left" alt=".NET" width="50px" src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" />][website]
@@ -44,8 +45,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="NLog" width="50px" src="https://avatars.githubusercontent.com/u/2331628?s=200&v=4" />][website]
 
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
+## Front-End technologies:
 [<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][website]
@@ -57,6 +59,7 @@ Here are some ideas to get you started:
 
 <br/><br/><br/><br/>
 
+## Cloud services/web hosting and source version control:
 [<img align="left" alt="Azure" width="50px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][website]
 [<img align="left" alt="AppHarbor" width="50px" src="https://avatars.githubusercontent.com/u/482897?s=200&v=4" />][website]
 [<img align="left" alt="Heroku" width="50px" src="https://avatars.githubusercontent.com/u/23211?s=200&v=4" />][website]
@@ -90,10 +93,6 @@ Here are some ideas to get you started:
 
   ### :zap: GitHub Stats
 
-  <img align="left" alt="AshrafQasem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ashraf-Qasem&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ashraf-Qasem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ashraf-Qasem&show_icons=true&hide_border=true" />
 
 <!-- </details> -->
-
-
-
-
